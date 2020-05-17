@@ -5,3 +5,6 @@
 
 1.   IDE: VisualStudio (Version = 15.0.26430.16)
 2.   OS:Windows_NT x64
+
+## 2.实现功能
+1.对学生成绩信息的增删改查。
